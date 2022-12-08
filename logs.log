@@ -1,0 +1,218 @@
+2022-12-05 20:07:00 INFO  eBanking:14 - Url is opened
+2022-12-05 20:07:00 INFO  eBanking:17 - Entered the username
+2022-12-05 20:07:00 INFO  eBanking:19 - Entered the password
+2022-12-05 20:07:01 INFO  eBanking:26 - the test failed
+2022-12-05 20:07:06 INFO  eBanking:21 - Url is opened
+2022-12-05 20:07:06 INFO  eBanking:24 - Username entered
+2022-12-05 20:07:06 INFO  eBanking:26 - Password entered
+2022-12-05 20:07:07 INFO  eBanking:38 - login passed
+2022-12-05 20:07:07 INFO  eBanking:42 - Log out passed
+2022-12-05 20:07:07 INFO  eBanking:21 - Url is opened
+2022-12-05 20:07:08 INFO  eBanking:24 - Username entered
+2022-12-05 20:07:08 INFO  eBanking:26 - Password entered
+2022-12-05 20:07:08 WARN  eBanking:33 - Login failed!!
+2022-12-05 20:07:08 INFO  eBanking:21 - Url is opened
+2022-12-05 20:07:09 INFO  eBanking:24 - Username entered
+2022-12-05 20:07:09 INFO  eBanking:26 - Password entered
+2022-12-05 20:07:10 WARN  eBanking:33 - Login failed!!
+2022-12-05 20:07:10 INFO  eBanking:21 - Url is opened
+2022-12-05 20:07:10 INFO  eBanking:24 - Username entered
+2022-12-05 20:07:10 INFO  eBanking:26 - Password entered
+2022-12-05 20:07:11 WARN  eBanking:33 - Login failed!!
+2022-12-05 20:07:14 INFO  eBanking:16 - Url is opened
+2022-12-05 20:07:14 INFO  eBanking:19 - Entered the username
+2022-12-05 20:07:14 INFO  eBanking:21 - Entered the password
+2022-12-05 20:07:15 INFO  eBanking:25 - the test passed
+2022-12-05 20:07:15 INFO  eBanking:34 - New Customer page
+2022-12-05 20:07:15 INFO  eBanking:35 - Providing customer details...
+2022-12-05 20:07:16 INFO  eBanking:47 - Validation started....
+2022-12-05 20:07:16 WARN  eBanking:52 - Test is failed
+2022-12-05 20:18:47 INFO  eBanking:14 - Url is opened
+2022-12-05 20:18:47 INFO  eBanking:17 - Entered the username
+2022-12-05 20:18:47 INFO  eBanking:19 - Entered the password
+2022-12-05 20:18:48 INFO  eBanking:26 - the test failed
+2022-12-05 20:18:52 INFO  eBanking:21 - Url is opened
+2022-12-05 20:18:52 INFO  eBanking:24 - Username entered
+2022-12-05 20:18:52 INFO  eBanking:26 - Password entered
+2022-12-05 20:18:53 INFO  eBanking:38 - login passed
+2022-12-05 20:18:54 INFO  eBanking:42 - Log out passed
+2022-12-05 20:18:54 INFO  eBanking:21 - Url is opened
+2022-12-05 20:18:54 INFO  eBanking:24 - Username entered
+2022-12-05 20:18:54 INFO  eBanking:26 - Password entered
+2022-12-05 20:18:55 WARN  eBanking:33 - Login failed!!
+2022-12-05 20:18:55 INFO  eBanking:21 - Url is opened
+2022-12-05 20:18:55 INFO  eBanking:24 - Username entered
+2022-12-05 20:18:55 INFO  eBanking:26 - Password entered
+2022-12-05 20:18:56 WARN  eBanking:33 - Login failed!!
+2022-12-05 20:18:56 INFO  eBanking:21 - Url is opened
+2022-12-05 20:18:56 INFO  eBanking:24 - Username entered
+2022-12-05 20:18:56 INFO  eBanking:26 - Password entered
+2022-12-05 20:18:57 WARN  eBanking:33 - Login failed!!
+2022-12-05 20:19:00 INFO  eBanking:16 - Url is opened
+2022-12-05 20:19:01 INFO  eBanking:19 - Entered the username
+2022-12-05 20:19:01 INFO  eBanking:21 - Entered the password
+2022-12-05 20:19:02 INFO  eBanking:25 - the test passed
+2022-12-05 20:19:02 INFO  eBanking:34 - New Customer page
+2022-12-05 20:19:02 INFO  eBanking:35 - Providing customer details...
+2022-12-05 20:19:03 INFO  eBanking:47 - Validation started....
+2022-12-05 20:19:03 WARN  eBanking:52 - Test is failed
+2022-12-05 20:21:33 INFO  eBanking:16 - Url is opened
+2022-12-05 20:21:34 INFO  eBanking:19 - Entered the username
+2022-12-05 20:21:34 INFO  eBanking:21 - Entered the password
+2022-12-05 20:21:34 INFO  eBanking:25 - the test passed
+2022-12-05 20:21:35 INFO  eBanking:34 - New Customer page
+2022-12-05 20:21:35 INFO  eBanking:35 - Providing customer details...
+2022-12-05 20:21:36 INFO  eBanking:47 - Validation started....
+2022-12-05 20:21:36 WARN  eBanking:52 - Test is failed
+2022-12-05 20:21:41 INFO  eBanking:21 - Url is opened
+2022-12-05 20:21:41 INFO  eBanking:24 - Username entered
+2022-12-05 20:21:41 INFO  eBanking:26 - Password entered
+2022-12-05 20:21:51 INFO  eBanking:38 - login passed
+2022-12-05 20:22:01 INFO  eBanking:21 - Url is opened
+2022-12-05 20:22:01 INFO  eBanking:24 - Username entered
+2022-12-05 20:22:01 INFO  eBanking:26 - Password entered
+2022-12-05 20:22:02 WARN  eBanking:33 - Login failed!!
+2022-12-05 20:22:02 INFO  eBanking:21 - Url is opened
+2022-12-05 20:22:02 INFO  eBanking:24 - Username entered
+2022-12-05 20:22:02 INFO  eBanking:26 - Password entered
+2022-12-05 20:22:03 WARN  eBanking:33 - Login failed!!
+2022-12-05 20:22:06 INFO  eBanking:14 - Url is opened
+2022-12-05 20:22:07 INFO  eBanking:17 - Entered the username
+2022-12-05 20:22:07 INFO  eBanking:19 - Entered the password
+2022-12-05 20:22:07 INFO  eBanking:23 - the test passed
+2022-12-07 10:02:03 INFO  eBanking:14 - Url is opened
+2022-12-07 10:02:03 INFO  eBanking:17 - Entered the username
+2022-12-07 10:02:04 INFO  eBanking:19 - Entered the password
+2022-12-07 10:02:04 INFO  eBanking:23 - the test passed
+2022-12-07 10:02:10 INFO  eBanking:21 - Url is opened
+2022-12-07 10:02:10 INFO  eBanking:24 - Username entered
+2022-12-07 10:02:10 INFO  eBanking:26 - Password entered
+2022-12-07 10:02:11 INFO  eBanking:38 - login passed
+2022-12-07 10:02:13 INFO  eBanking:42 - Log out passed
+2022-12-07 10:02:13 INFO  eBanking:21 - Url is opened
+2022-12-07 10:02:13 INFO  eBanking:24 - Username entered
+2022-12-07 10:02:13 INFO  eBanking:26 - Password entered
+2022-12-07 10:02:14 WARN  eBanking:33 - Login failed!!
+2022-12-07 10:02:14 INFO  eBanking:21 - Url is opened
+2022-12-07 10:02:14 INFO  eBanking:24 - Username entered
+2022-12-07 10:02:14 INFO  eBanking:26 - Password entered
+2022-12-07 10:02:15 WARN  eBanking:33 - Login failed!!
+2022-12-07 10:02:15 INFO  eBanking:21 - Url is opened
+2022-12-07 10:02:15 INFO  eBanking:24 - Username entered
+2022-12-07 10:02:15 INFO  eBanking:26 - Password entered
+2022-12-07 10:02:17 WARN  eBanking:33 - Login failed!!
+2022-12-07 10:02:20 INFO  eBanking:16 - Url is opened
+2022-12-07 10:02:21 INFO  eBanking:19 - Entered the username
+2022-12-07 10:02:21 INFO  eBanking:21 - Entered the password
+2022-12-07 10:02:22 INFO  eBanking:25 - the test passed
+2022-12-07 10:02:23 INFO  eBanking:34 - New Customer page
+2022-12-07 10:02:23 INFO  eBanking:35 - Providing customer details...
+2022-12-07 10:02:27 INFO  eBanking:47 - Validation started....
+2022-12-07 10:02:27 WARN  eBanking:52 - Test is failed
+2022-12-07 18:33:44 INFO  eBanking:14 - Url is opened
+2022-12-07 18:33:44 INFO  eBanking:17 - Entered the username
+2022-12-07 18:33:45 INFO  eBanking:19 - Entered the password
+2022-12-07 18:33:45 INFO  eBanking:23 - the test passed
+2022-12-07 18:33:49 INFO  eBanking:18 - Url is opened
+2022-12-07 18:33:49 INFO  eBanking:21 - Username entered
+2022-12-07 18:33:50 INFO  eBanking:23 - Password entered
+2022-12-07 18:33:50 INFO  eBanking:35 - login passed
+2022-12-07 18:33:51 INFO  eBanking:39 - Log out passed
+2022-12-07 18:33:51 INFO  eBanking:18 - Url is opened
+2022-12-07 18:33:51 INFO  eBanking:21 - Username entered
+2022-12-07 18:33:51 INFO  eBanking:23 - Password entered
+2022-12-07 18:33:52 WARN  eBanking:30 - Login failed!!
+2022-12-07 18:33:52 INFO  eBanking:18 - Url is opened
+2022-12-07 18:33:52 INFO  eBanking:21 - Username entered
+2022-12-07 18:33:52 INFO  eBanking:23 - Password entered
+2022-12-07 18:33:53 WARN  eBanking:30 - Login failed!!
+2022-12-07 18:33:53 INFO  eBanking:18 - Url is opened
+2022-12-07 18:33:53 INFO  eBanking:21 - Username entered
+2022-12-07 18:33:53 INFO  eBanking:23 - Password entered
+2022-12-07 18:33:54 WARN  eBanking:30 - Login failed!!
+2022-12-07 18:33:57 INFO  eBanking:16 - Url is opened
+2022-12-07 18:33:57 INFO  eBanking:19 - Entered the username
+2022-12-07 18:33:57 INFO  eBanking:21 - Entered the password
+2022-12-07 18:34:01 INFO  eBanking:25 - the test passed
+2022-12-07 18:34:01 INFO  eBanking:34 - New Customer page
+2022-12-07 18:34:01 INFO  eBanking:35 - Providing customer details...
+2022-12-07 18:34:07 INFO  eBanking:47 - Validation started....
+2022-12-07 18:34:07 WARN  eBanking:52 - Test is failed
+2022-12-07 18:50:06 INFO  eBanking:14 - Url is opened
+2022-12-07 18:50:06 INFO  eBanking:17 - Entered the username
+2022-12-07 18:50:06 INFO  eBanking:19 - Entered the password
+2022-12-07 18:50:07 INFO  eBanking:23 - the test passed
+2022-12-07 18:50:12 INFO  eBanking:18 - Url is opened
+2022-12-07 18:50:12 INFO  eBanking:21 - Username entered
+2022-12-07 18:50:12 INFO  eBanking:23 - Password entered
+2022-12-07 18:50:13 INFO  eBanking:35 - login passed
+2022-12-07 18:50:14 INFO  eBanking:39 - Log out passed
+2022-12-07 18:50:14 INFO  eBanking:18 - Url is opened
+2022-12-07 18:50:14 INFO  eBanking:21 - Username entered
+2022-12-07 18:50:14 INFO  eBanking:23 - Password entered
+2022-12-07 18:50:15 WARN  eBanking:30 - Login failed!!
+2022-12-07 18:50:15 INFO  eBanking:18 - Url is opened
+2022-12-07 18:50:15 INFO  eBanking:21 - Username entered
+2022-12-07 18:50:15 INFO  eBanking:23 - Password entered
+2022-12-07 18:50:16 WARN  eBanking:30 - Login failed!!
+2022-12-07 18:50:16 INFO  eBanking:18 - Url is opened
+2022-12-07 18:50:16 INFO  eBanking:21 - Username entered
+2022-12-07 18:50:16 INFO  eBanking:23 - Password entered
+2022-12-07 18:50:17 WARN  eBanking:30 - Login failed!!
+2022-12-07 18:50:22 INFO  eBanking:16 - Url is opened
+2022-12-07 18:50:22 INFO  eBanking:19 - Entered the username
+2022-12-07 18:50:22 INFO  eBanking:21 - Entered the password
+2022-12-07 18:50:23 INFO  eBanking:25 - the test passed
+2022-12-07 18:50:26 INFO  eBanking:34 - New Customer page
+2022-12-07 18:50:26 INFO  eBanking:35 - Providing customer details...
+2022-12-07 18:50:27 INFO  eBanking:47 - Validation started....
+2022-12-07 18:50:27 WARN  eBanking:52 - Test is failed
+2022-12-07 18:54:01 INFO  eBanking:14 - Url is opened
+2022-12-07 18:54:01 INFO  eBanking:17 - Entered the username
+2022-12-07 18:54:01 INFO  eBanking:19 - Entered the password
+2022-12-07 18:54:02 INFO  eBanking:23 - the test passed
+2022-12-07 18:56:19 INFO  eBanking:14 - Url is opened
+2022-12-07 18:56:20 INFO  eBanking:17 - Entered the username
+2022-12-07 18:56:20 INFO  eBanking:19 - Entered the password
+2022-12-07 18:56:20 INFO  eBanking:23 - the test passed
+2022-12-07 19:04:30 INFO  eBanking:14 - Url is opened
+2022-12-07 19:04:31 INFO  eBanking:17 - Entered the username
+2022-12-07 19:04:31 INFO  eBanking:19 - Entered the password
+2022-12-07 19:04:32 INFO  eBanking:23 - the test passed
+2022-12-07 19:13:44 INFO  eBanking:14 - Url is opened
+2022-12-07 19:13:44 INFO  eBanking:17 - Entered the username
+2022-12-07 19:13:45 INFO  eBanking:19 - Entered the password
+2022-12-07 19:13:45 INFO  eBanking:23 - the test passed
+2022-12-07 19:14:40 INFO  eBanking:14 - Url is opened
+2022-12-07 19:14:40 INFO  eBanking:17 - Entered the username
+2022-12-07 19:14:40 INFO  eBanking:19 - Entered the password
+2022-12-07 19:14:41 INFO  eBanking:23 - the test passed
+2022-12-07 19:14:45 INFO  eBanking:18 - Url is opened
+2022-12-07 19:14:45 INFO  eBanking:21 - Username entered
+2022-12-07 19:14:45 INFO  eBanking:23 - Password entered
+2022-12-07 19:14:46 INFO  eBanking:35 - login passed
+2022-12-07 19:14:46 INFO  eBanking:39 - Log out passed
+2022-12-07 19:14:46 INFO  eBanking:18 - Url is opened
+2022-12-07 19:14:47 INFO  eBanking:21 - Username entered
+2022-12-07 19:14:47 INFO  eBanking:23 - Password entered
+2022-12-07 19:14:47 WARN  eBanking:30 - Login failed!!
+2022-12-07 19:14:47 INFO  eBanking:18 - Url is opened
+2022-12-07 19:14:47 INFO  eBanking:21 - Username entered
+2022-12-07 19:14:48 INFO  eBanking:23 - Password entered
+2022-12-07 19:14:48 WARN  eBanking:30 - Login failed!!
+2022-12-07 19:14:48 INFO  eBanking:18 - Url is opened
+2022-12-07 19:14:48 INFO  eBanking:21 - Username entered
+2022-12-07 19:14:49 INFO  eBanking:23 - Password entered
+2022-12-07 19:14:49 WARN  eBanking:30 - Login failed!!
+2022-12-07 19:28:47 INFO  eBanking:14 - Url is opened
+2022-12-07 19:28:47 INFO  eBanking:17 - Entered the username
+2022-12-07 19:28:48 INFO  eBanking:19 - Entered the password
+2022-12-07 19:28:48 INFO  eBanking:23 - the test passed
+2022-12-08 11:36:55 INFO  eBanking:14 - Url is opened
+2022-12-08 11:36:55 INFO  eBanking:17 - Entered the username
+2022-12-08 11:36:56 INFO  eBanking:19 - Entered the password
+2022-12-08 11:36:57 INFO  eBanking:23 - the test passed
+2022-12-08 11:38:46 INFO  eBanking:14 - Url is opened
+2022-12-08 11:38:47 INFO  eBanking:17 - Entered the username
+2022-12-08 11:38:47 INFO  eBanking:19 - Entered the password
+2022-12-08 11:38:47 INFO  eBanking:23 - the test passed
